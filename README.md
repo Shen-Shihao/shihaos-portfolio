@@ -6,7 +6,7 @@ Hello! I am a student from Global-MISM.
 I'm 25 years old and I am a Spurs fan!
 
 # What I hope to learn
-I hope to learn to use some useful tools to do data visualization.
+I hope to learn some useful tools to do data visualization.
 And I would like to learn the way to gather data as well.
 
 # Portfolio
