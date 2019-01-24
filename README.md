@@ -10,3 +10,5 @@ This is my public portfolio for the Telling Stories with Data class at CMU!
 * I would like to learn some ways to gather data as well. Analysing is one thing, collecting is another. Most assignments I did before were cleaning, pre-processing, analysing and so on. But all the dataset were given by professor. Therefore I hope I can learn ways to obtain data during this course.
 
 ## Portfolio
+* Government debt bar chart
+<iframe src="https://data.oecd.org/chart/5rWO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5rWO" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
