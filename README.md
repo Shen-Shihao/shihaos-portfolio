@@ -9,7 +9,7 @@ This is my public portfolio for the Telling Stories with Data class at CMU!
 * I hope to learn some useful tools to do data visualization, such as Tableau. I used Tableau in data mining last semester, but there are still many functions I didn't grasp yet.
 * I would like to learn some ways to gather data as well. Analysing is one thing, collecting is another. Most assignments I did before were cleaning, pre-processing, analysing and so on. But all the dataset were given by professor. Therefore I hope I can learn ways to obtain data during this course.
 
-## Portfolio
+## Portfolio-1
 * Government debt bar chart
 <iframe src="https://data.oecd.org/chart/5rWT" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5rWT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
@@ -26,8 +26,9 @@ This is my public portfolio for the Telling Stories with Data class at CMU!
            - Beeswarm chart use time line as the x-axis and countries' name as the y-axis, which looks like a matrix. Within each matrix, the area of the circle indicates whether the value is large or small. It is easy for readers to see the changing of a country's debt ratio by using beeswarm.
            - Circle packing chart use different circles to show the ratio for each country in each year. First, we draw several big circles which indicate time, and then we put small circles, which stand for location, into big circles. And we label both location and time since there is no order in circle packing. Circle packing shows clearly the relationship between locations in each year, which is easy for reader to do comparision. However, it is hard to see the changing of one country by using circle packing.
 
+## Portfolio-2
 * Original data visualization
-     https://www.collegefactual.com/colleges/carnegie-mellon-university/student-life/diversity/#chart-age-diversity
+     - https://www.collegefactual.com/colleges/carnegie-mellon-university/student-life/diversity/#chart-age-diversity
      - I selected this data visualization because it shows a research about the diversity at CMU, including the ethnic diversity, gender diversity, and so on. However, I found that there are some misleading factors and also some redundant parts in this visualization, and I would like to revise it.
 
 * My process
