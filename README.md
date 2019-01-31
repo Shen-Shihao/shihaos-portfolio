@@ -32,4 +32,7 @@ This is my public portfolio for the Telling Stories with Data class at CMU!
      - I selected this data visualization because it shows a research about the diversity at CMU, including the ethnic diversity, gender diversity, and so on. However, I found that there are some misleading factors and also some redundant parts in this visualization, and I would like to revise it.
 
 * My process
-     - 
+     - I got some ideas to revise this data visualization after I finished the spreadsheet.
+           - Intuitiveness: There are two pie charts showing enthic diversity for students and faculty using the same color combination, however, some colors represent different groups in different charts. This could be considered as a misleading factor, and I would like to modifiy it.
+           - Perceptibility: In the ethnic and age pie charts, we cannot see the percentage in small slices, which decreases efficiency. If a user want to know the percentage of a small group, she/he need to calculate by herself/himself.
+           - Usefulness: This data visualization is really useful, however, one of its chart is not useful in my opinion. We can see there is a pie chart shows the diversity of gender. However, there are only two slices in the gender pie chart, and they are almost the same. In my opinion, a pie chart should contain at least 3 slices since it will help readers get a straight feeling about the relationship between them. If there are only two parties, it is easy for a reader to draw the relationship between them in mind. Therefore, the gender pie chart is not necessary.
