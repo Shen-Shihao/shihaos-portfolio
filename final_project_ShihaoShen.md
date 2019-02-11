@@ -11,8 +11,8 @@
 
 ## Data Source
 * My data is a chart of deaths from smoking and smoking deaths by age. The source of the data comes from  https://ourworldindata.org/smoking in two charts, and I would like to combine them together. Because through the chart we can notice that deaths from smoking is increasing in the past few years, and there are millions of people who die in their golden ages.
-* Deaths from smoking Link: shihaos-portfolio/smoking-and-secondhand-deaths.csv
-* Deaths by age Link: shihaos-portfolio/smoking-deaths-by-age.csv
+* Deaths from smoking Link: https://github.com/SsJnton/shihaos-portfolio/blob/master/smoking-and-secondhand-deaths.csv
+* Deaths by age Link: https://github.com/SsJnton/shihaos-portfolio/blob/master/smoking-deaths-by-age.csv
 
 ## Method and Medium
 * I will use shorthand as the tool.
