@@ -43,4 +43,32 @@ C) Stay away from cigarettes<br/>
 A) Smoking problem is more serious in northern hemisphere. More deaths in recent years.<br/>
 B) Different situations in different areas. Deaths are increasing.<br/>
 C) Smoking is a global problem. Deaths from age 15-49 decreased in 2016.<br/>
+3. Is it good to add the optional part?<br/>
+A) No.<br/>
+B) No. You have only one minute.<br/>
+C) No. It should be a serious topic.<br/>
+4. Any modification on charts?<br/>
+A) The map chart doesn't feel good. We cannot figure out the smoking ratio in a specific area in a country. For example, the smoking ratio my be high in Beijing but low in Shanghai, but they are covered by same color.<br/>
+B) Divide deaths from age into three rectangles.<br/>
+C) Add a number on the second chart.<br/>
+5. Which is the most important part?<br/>
+A) 4.<br/>
+B) 4. Since people care about healthy, and death number is impressive.<br/>
+C) 4.<br/>
+6. Any recommendation?<br/>
+A) Change map into bar chart.<br/>
+B) No.<br/>
+C) Do not list too much diseases there. Several images are more attractive.<br/>
+
+### Findings from interviews
+* The optional part is not that funning and should be delete.
+* The names of diseases are boring, a image is more easy to get the point and attractive.
+* The second chart is most important, but should be modified.
+* The map should be modified. It seems that the whole country has same smoking ratio in all areas.
+
+### Changes
+* Divide the deaths from age bar into 3 bars in different ages, so that it is easier to read how many people die in what age.
+* Change the diseases names into several attractive images, which saves time as well.
+* Delete the optional part. 
+* Although the map chart is kind of misleading, I will keep it in my wireframe.
 
