@@ -72,3 +72,5 @@ C) Do not list too much diseases there. Several images are more attractive.<br/>
 * Delete the optional part. 
 * Although the map chart is kind of misleading, I will keep it in my wireframe.
 
+### Wireframes
+* https://preview.shorthand.com/67iwrNee3vLuF7ro
