@@ -4,7 +4,7 @@
 ### Summary
 * Smoking is an unhealthy habit which is harmful to everyone. Please quit/ask others quit smoking.
 ### Structure:
-* State the percentage of men/women who somke daily/occasionally in the United States. Indicates smoke is a common problem in US.
+* State the percentage of men/women who somke daily/occasionally in the World. Indicates smoke is a common problem.
 * Smoking leads to different diseases. e.g. Depression, heart attack, cancer.
 * Chart of deaths from smoking & smoking death by age.
 * Appeal readers keep away from smoking, and help family/friends quit smoking. Secondhand smoking is harmful as well.
@@ -22,10 +22,10 @@
 # Final Project Part II
 
 ## Sketches
-
+* https://github.com/SsJnton/shihaos-portfolio/blob/master/Sketches.pdf
 
 ## Storyboard
-
+* https://github.com/SsJnton/shihaos-portfolio/blob/master/Storyboard.pdf
 
 ## User research
 ### Target audience
@@ -35,12 +35,12 @@
 * I invited 3 friends as representative individuals, and Student-A had already quit smoking last month. Student-B smokes daily, and Student-C had never smoked before. I invited them because they are in different situation, and they may have different opinions and feelings after seeing my sketches and storyboard. I asked them several questions list below as my interview script.
 
 ### Interview Script and feedback
-1. Could you briefly talk about the storyboard's main idea?
-A) Please quit smoking
-B) Quit smoking
-C) Stay away from cigarettes
-2. What can you see from charts?
-A) Smoking problem is more serious in northern hemisphere. More deaths in recent years.
-B) Different situations in different areas. Deaths are increasing.
-C) Smoking is a global problem. Deaths from age 15-49 decreased in 2016.
+1. Could you briefly talk about the storyboard's main idea?<br/>
+A) Please quit smoking<br/>
+B) Quit smoking<br/>
+C) Stay away from cigarettes<br/>
+2. What can you see from charts?<br/>
+A) Smoking problem is more serious in northern hemisphere. More deaths in recent years.<br/>
+B) Different situations in different areas. Deaths are increasing.<br/>
+C) Smoking is a global problem. Deaths from age 15-49 decreased in 2016.<br/>
 
