@@ -90,4 +90,10 @@ C) Do not list too much diseases there. Several images are more attractive.<br/>
 * Finally, I downloaded the data from ourworldindata.org, and cleaned the data as pre-processing.
 
 ### Part II
-* 
+* First, I drew sketches about the chart part, which is the most important part in this story. According to the data I cleaned before, I drew the chart by hand in paint. However, after finish Part II I noticed that I should built my chart in other tools such as Tableau or Inforgram, which is more beautiful and easy to read.
+* Second, I drew a storyboard to show the order of "slides" in shorthand and make sure this is reasonable and brief. Since we only have one minute to tell our story, I wrote how many seconds I should spend on each "slide" in my storyboard, which is very helpful.
+* Third, I did the interview. As I mentioned in Part II, I invited 3 friends to do the interview, and one of them has quit smoking, one does not smoke, and one smokes almost daily. It is very interesting during the interview that according to their different situation, their attitude and mood is different. Although they all admit smoking is harmful, the one who smokes seems numb during the interview. It seems that he has already know the disadvantages of smoking, and he is willing to take them. And I found that it is really hard to convince someone to quit smoking, which is almost impossible.
+** Finally, I want to talk about the feedback for my Part II, which is also very important and helpful to my project. For my first map chart, I think it is necessary at first. However, according to the feedback, I noticed that the first chart is useless. Showing how many people smoke daily is not meaningful at all. There is not a really relationship between how many and how dangerous it is. Therefore, I decide to remove the first chart. Additionally, I also noticed that ask someone to quit smoking is almost impossible, even if they quit smoking finally, it is not because of my story. So I changed my topic to Stay Away From Smoking. To avoid something happen is much easier than to change something. And I also added a chart at last to indicates how many people quit smoking successfully. Because I think the hardness of quit smoking could be a rational reason to avoid starting smoking.
+
+## Final Data Story
+
