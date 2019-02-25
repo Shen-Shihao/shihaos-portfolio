@@ -83,4 +83,11 @@ C) Do not list too much diseases there. Several images are more attractive.<br/>
 * As we all know, smoking is not a good habit. Although it helps you to relax, to think calmly, it can also destroy your body at the same time. However, sharing cigarettes becomes a "etiquette" now. People invite their friends to smoke and explain the advantage of smoking and try to convience others to join them. 
 * Therefore, I hope those people who doesn't smoke, or who has already quit smoking, stay away from smoking in the rest of your life. Smoking is not necessary for you, it will destroy your body, and empty your wallet.
 
+## Work Summary
+### Part I
+* First, to be honest, I visited ourworldindata.org to check if there is any topic I am interested in, and fortunately, I found an attractive one. Because when I was a high school student, I thought smoking is a cool thing but luckly I didn't try. Now I know that smoking is not cool, but the rebellion in adolescene is pretty stupid. So I selected this topic and I hope I can convince those people who doesn't smoke but think smoking is cool or helpful to stay away from it.
+* Second, I built the structure of my story. This is a important step since the logic to tell the story has been designed here. What to tell at first, what to tell then, and how to attract your audience according to moodboard need to be considerated here. Therefore, for my first version, I decided to tell the ratio of smoking people at first, and then health effects of smoking and deaths from smoking at last. I think this is a rational order because I show a marco picture of percentage of people around the world to indicates smoking is a serious problem, and then smoking can lead to many diseases, and finally the deaths from smoking in huge. 
+* Finally, I downloaded the data from ourworldindata.org, and cleaned the data as pre-processing.
 
+### Part II
+* 
