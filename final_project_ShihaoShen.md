@@ -96,4 +96,4 @@ C) Do not list too much diseases there. Several images are more attractive.<br/>
 * Finally, I want to talk about the feedback for my Part II, which is also very important and helpful to my project. For my first map chart, I think it is necessary at first. However, according to the feedback, I noticed that the first chart is useless. Showing how many people smoke daily is not meaningful at all. There is not a really relationship between how many and how dangerous it is. Therefore, I decide to remove the first chart. Additionally, I also noticed that ask someone to quit smoking is almost impossible, even if they quit smoking finally, it is not because of my story. So I changed my topic to Stay Away From Smoking. To avoid something happen is much easier than to change something. And I also added a "slide" at last to indicates how many people quit smoking successfully. Because I think the hardness of quit smoking could be a rational reason to avoid starting smoking.
 
 ## Final Data Story
-
+https://carnegiemellon.shorthandstories.com/shihaos_1/index.html
