@@ -2,7 +2,7 @@
 
 ## Outline
 ### Summary
-* Smoking is an unhealthy habit which is harmful to everyone. Please quit/ask others quit smoking.
+* Smoking is an unhealthy habit which is harmful to everyone. Please stay away from smoking.
 ### Structure:
 * State the percentage of men/women who somke daily/occasionally in the World. Indicates smoke is a common problem.
 * Smoking leads to different diseases. e.g. Depression, heart attack, cancer.
@@ -29,7 +29,7 @@
 
 ## User research
 ### Target audience
-* Who smokes and those whose family/friend smokes.
+* Who did not smoke and who has quit smoking.
 
 ### Approach to identifying representative individuals to interview
 * I invited 3 friends as representative individuals, and Student-A had already quit smoking last month. Student-B smokes daily, and Student-C had never smoked before. I invited them because they are in different situation, and they may have different opinions and feelings after seeing my sketches and storyboard. I asked them several questions list below as my interview script.
@@ -74,3 +74,13 @@ C) Do not list too much diseases there. Several images are more attractive.<br/>
 
 ### Wireframes
 * https://preview.shorthand.com/67iwrNee3vLuF7ro
+
+
+# Final Project Part III
+
+## Intended audience
+* My intended audience are those who doesn't smoke, and those who has already quit smoking.
+* As we all know, smoking is not a good habit. Although it helps you to relax, to think calmly, it can also destroy your body at the same time. However, sharing cigarettes becomes a "etiquette" now. People invite their friends to smoke and explain the advantage of smoking and try to convience others to join them. 
+* Therefore, I hope those people who doesn't smoke, or who has already quit smoking, stay away from smoking in the rest of your life. Smoking is not necessary for you, it will destroy your body, and empty your wallet.
+
+
